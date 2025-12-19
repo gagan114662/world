@@ -1,0 +1,41 @@
+{
+  "world": {
+    "id": "ancient_rome",
+    "name": "Ancient Roman Forum",
+    "subject": "history",
+    "description": "Walk through the heart of the Roman Empire",
+    "prompt": "Walking through the ancient Roman Forum at its height",
+    "positions": {
+      "start": "At the entrance to the Roman Forum",
+      "forward": "Walking toward the Senate building",
+      "forward_forward": "Standing before the Curia Julia",
+      "left": "Approaching the Temple of Saturn",
+      "right": "Heading toward the Colosseum",
+      "turn_left": "Viewing the Arch of Titus",
+      "turn_right": "Looking at merchant stalls"
+    },
+    "educationalPoints": [
+      "The Roman Forum was the center of public life",
+      "The Senate made laws and governed the Republic",
+      "Roman architecture influenced buildings for centuries"
+    ],
+    "vocabulary": [
+      "senate",
+      "republic",
+      "emperor",
+      "gladiator",
+      "forum"
+    ],
+    "suggestedQuestions": [
+      "How was the Roman Republic governed?",
+      "What happened in the Colosseum?"
+    ]
+  },
+  "generated_at": "2025-12-19T11:10:56.960457",
+  "is_mock": true,
+  "settings": {
+    "video_length": 125,
+    "height": 480,
+    "width": 832
+  }
+}

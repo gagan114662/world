@@ -1,0 +1,26 @@
+{
+  "worlds": [
+    {
+      "id": "solar_system",
+      "name": "Solar System Explorer",
+      "subject": "astronomy",
+      "description": "Explore our solar system from Mercury to Neptune",
+      "thumbnail": "solar_system/thumbnail.jpg"
+    },
+    {
+      "id": "human_cell",
+      "name": "Inside a Human Cell",
+      "subject": "biology",
+      "description": "Explore the interior of a living cell",
+      "thumbnail": "human_cell/thumbnail.jpg"
+    },
+    {
+      "id": "ancient_rome",
+      "name": "Ancient Roman Forum",
+      "subject": "history",
+      "description": "Walk through the heart of the Roman Empire",
+      "thumbnail": "ancient_rome/thumbnail.jpg"
+    }
+  ],
+  "generated_at": "2025-12-19T11:10:56.960664"
+}

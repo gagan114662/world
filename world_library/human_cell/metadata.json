@@ -1,0 +1,41 @@
+{
+  "world": {
+    "id": "human_cell",
+    "name": "Inside a Human Cell",
+    "subject": "biology",
+    "description": "Explore the interior of a living cell",
+    "prompt": "Floating inside a human cell with organelles visible",
+    "positions": {
+      "start": "Near the cell membrane, gateway to the cell",
+      "forward": "Moving toward the nucleus, the control center",
+      "forward_forward": "Approaching the nuclear envelope",
+      "left": "Floating toward mitochondria, the powerhouses",
+      "right": "Approaching the endoplasmic reticulum",
+      "turn_left": "Viewing ribosomes scattered throughout",
+      "turn_right": "Looking at the Golgi apparatus"
+    },
+    "educationalPoints": [
+      "The cell membrane controls what enters and leaves",
+      "The nucleus contains DNA, the genetic blueprint",
+      "Mitochondria produce ATP, the energy currency"
+    ],
+    "vocabulary": [
+      "organelle",
+      "cytoplasm",
+      "membrane",
+      "nucleus",
+      "mitochondria"
+    ],
+    "suggestedQuestions": [
+      "Why are mitochondria called powerhouses?",
+      "What is DNA and where is it found?"
+    ]
+  },
+  "generated_at": "2025-12-19T11:10:56.960178",
+  "is_mock": true,
+  "settings": {
+    "video_length": 125,
+    "height": 480,
+    "width": 832
+  }
+}

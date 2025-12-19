@@ -1,0 +1,46 @@
+{
+  "world": {
+    "id": "solar_system",
+    "name": "Solar System Explorer",
+    "subject": "astronomy",
+    "description": "Explore our solar system from Mercury to Neptune",
+    "prompt": "Flying through outer space with stars and nebulae in the background, approaching planets in our solar system",
+    "positions": {
+      "start": "Floating in space, Sun visible in the distance",
+      "forward": "Approaching Mercury, the closest planet to the Sun",
+      "forward_forward": "Flying past Mercury, Venus coming into view",
+      "forward_left": "Turning toward the asteroid belt",
+      "forward_right": "Viewing the outer planets in the distance",
+      "left": "Looking at the constellation Orion",
+      "right": "Mars visible in the distance with its red surface",
+      "turn_left": "Rotating to view different star clusters",
+      "turn_right": "Turning to see Jupiter and its moons",
+      "backward": "Moving back toward the outer solar system"
+    },
+    "educationalPoints": [
+      "Mercury is the smallest planet and closest to the Sun",
+      "Venus is the hottest planet due to its thick atmosphere",
+      "Earth is the only planet known to have liquid water on its surface",
+      "Mars has the largest volcano in the solar system - Olympus Mons"
+    ],
+    "vocabulary": [
+      "orbit",
+      "gravity",
+      "asteroid",
+      "comet",
+      "nebula"
+    ],
+    "suggestedQuestions": [
+      "Why is Mercury not the hottest planet?",
+      "What makes Earth special?",
+      "How big is Jupiter compared to Earth?"
+    ]
+  },
+  "generated_at": "2025-12-19T11:10:56.959772",
+  "is_mock": true,
+  "settings": {
+    "video_length": 125,
+    "height": 480,
+    "width": 832
+  }
+}

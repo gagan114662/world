@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+.env
+*.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+.DS_Store
+*.log
+aitutor/node_modules/
+aitutor/frontend/node_modules/
+worldplay-worker/venv/
+worldplay-gateway/venv/
+HY-WorldPlay/venv/

@@ -1,0 +1,25 @@
+# Testing Dependencies for AI Tutor
+
+# Core testing framework
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
+pytest-mock==3.12.0
+
+# Test utilities
+faker==20.1.0
+freezegun==1.4.0
+responses==0.24.1
+
+# Coverage reporting
+coverage[toml]==7.3.2
+
+# Code quality
+pytest-flake8==1.1.1
+pytest-mypy==0.10.3
+
+# Performance testing
+pytest-benchmark==4.0.0
+
+# API testing
+httpx==0.25.2
