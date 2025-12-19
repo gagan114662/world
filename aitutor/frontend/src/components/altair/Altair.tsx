@@ -15,7 +15,7 @@ function AltairComponent({ json_graph }: AltairProps) {
         vegaEmbed(embedRef.current, spec, {
           actions: false,
           responsive: true,
-          width: 'container'
+          width: 'container' as unknown as number // vega-embed type workaround
         });
       } catch (e) {
         console.error("Failed to parse Altair graph", e);
