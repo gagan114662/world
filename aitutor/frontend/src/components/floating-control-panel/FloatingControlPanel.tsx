@@ -22,6 +22,14 @@ import { instructionSSEService } from "../../services/instruction-sse-service";
 import { LiveServerContent } from '@google/genai';
 
 /**
+ * Transcription data from Gemini
+ */
+interface TranscriptionData {
+  text?: string;
+  isFinal?: boolean;
+}
+
+/**
  * Extract transcript text from Gemini content event
  */
 function extractTranscriptFromContent(content: LiveServerContent): string | null {
